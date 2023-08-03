@@ -1,6 +1,6 @@
 # WG-Gesucht Scrapper 2023
 
-> :warning: **This project is based on this repository from Juan Cruz Martino**: [wg-gesucht-scrapper](https://github.com/juancruzmartino/wg-gesucht-scrapper)
+> :warning: This project is based on this repository from **Juan Cruz Martino**: [wg-gesucht-scrapper](https://github.com/juancruzmartino/wg-gesucht-scrapper)
 
 A nodejs script for scrapping and the reservation of rooms or flats in the Wg-gesucht site.
 
